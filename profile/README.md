@@ -16,4 +16,4 @@ We're Vadym (Chief Architect, 18 yrs) and Anastasia (Lead Designer, 11 yrs) - a 
 - [`WP-Mail-to-Telegram`](https://github.com/Mudrava/WP-Mail-to-Telegram) - Forward WordPress emails to Telegram
 
 ### Links
-🌐 [mudrava.com](https://mudrava.com) · 📅 [Book a call](https://calendly.com/mudrava) · 💼 [Upwork](https://www.upwork.com/agencies/mudrava)
+🌐 [mudrava.com](https://mudrava.com/en/) · 📅 [Book a call](https://calendly.com/mudrava) · 💼 [Upwork](https://www.upwork.com/agencies/mudrava)
