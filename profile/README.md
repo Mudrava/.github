@@ -11,6 +11,7 @@ We're Vadym (Chief Architect, 18 yrs) and Anastasia (Lead Designer, 11 yrs) - a 
 - **UX/UI Redesign** - conversion-focused, not just pretty
 
 ### Our open-source tools
+- [`mtplx-agent-bridge`](https://github.com/Mudrava/mtplx-agent-bridge) - OpenAI/Anthropic compatible bridge for running MTPLX Qwen models on Apple Silicon with coding agents
 - [`pixelfixer-mcp-server`](https://github.com/Mudrava/pixelfixer-mcp-server) - MCP server for AI-powered bug tracking
 - [`True-RUM-Monitor`](https://github.com/Mudrava/True-RUM-Monitor) - Real User Monitoring plugin for WordPress
 - [`WP-Mail-to-Telegram`](https://github.com/Mudrava/WP-Mail-to-Telegram) - Forward WordPress emails to Telegram
